@@ -4,4 +4,4 @@
   
 Check out my pinned repositories to see what I've built.
 
-More on my [personal website](https://www.lucasdaly.me).
+More on my portfolio [here](https://www.lucasdaly.me).
